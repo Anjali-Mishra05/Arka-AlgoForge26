@@ -230,7 +230,7 @@ export default function CoachingPage() {
         </div>
       </section>
 
-      {/* Tabs */}
+      {/* Tabs below here*/}
       <div className="flex gap-2 flex-wrap">
         {TABS.map(({ id, label, icon: Icon }) => (
           <button
@@ -325,7 +325,7 @@ export default function CoachingPage() {
             </div>
           )}
 
-          {/* ── History Tab ── */}
+          {/* ── History Tab below here ── */}
           {tab === "history" && (
             <div style={{ backgroundColor: "#FFFFFF", border: "2px solid #1A1A1A", borderRadius: "16px", boxShadow: "4px 4px 0px #1A1A1A", padding: "24px" }}>
               <p className="text-xs font-black uppercase tracking-[0.2em] text-slate-500 mb-4">Recent Coaching Tips</p>
