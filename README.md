@@ -26,7 +26,7 @@ Pravaha/
 
 ## Documentation
 
-- [AGENTS.md](./Pravaha/AGENTS.md) - Architecture and team overview
+- [AGENTS.md](./Pravaha/AGENTS.md) - Architecture and team overvie
 - [ABSTRACT.md](./Pravaha/ABSTRACT.md) - System architecture
 - [IMPLEMENTATION_PLAN.md](./Pravaha/IMPLEMENTATION_PLAN.md) - Development roadmap
 - [INDEX.md](./Pravaha/INDEX.md) - Codebase reference
