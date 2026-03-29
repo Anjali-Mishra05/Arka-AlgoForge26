@@ -1,3 +1,5 @@
+/*Contries info for the dashboard*/
+
 export const COUNTRIES = [
   { title: "Afghanistan", value: "AF", code: "93" },
   { title: "Angola", value: "AO", code: "244" },
